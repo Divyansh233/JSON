@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "vanilla",
+      "calories": 600,
+      "type": "milk icecream",
+      "ingredients": [
+        "milk",
+        "sugar",
+        "vanilla extract"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Butterscotch",
+      "calories": 620,
+      "type": "scotch icecream",
+      "ingredients": [
+        "milk",
+        "sugar",
+        "scotch"
+      ],
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
